@@ -1,0 +1,3 @@
+Package : simpleEnsembleGroup19
+Version: 0.0.0.9000
+Description: This package performs fitting single regression model, bootstrap bagging model, and ensemble learning model. It performs prediction of testing data and check accuracy or RMSE.
